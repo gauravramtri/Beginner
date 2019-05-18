@@ -1,0 +1,28 @@
+{
+  "name": "meantutorial",
+  "version": "1.0.0",
+  "description": "mean stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "MEAN",
+    "stack"
+  ],
+  "author": "Gaurav Ramtri",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.16.4",
+    "jquery": "^3.4.1",
+    "mongoose": "^5.5.5",
+    "morgan": "^1.9.1",
+    "numpy": "0.0.1",
+    "pandas": "0.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
